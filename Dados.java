@@ -18,7 +18,7 @@ public class Dados {
         idade = ler.nextInt();
 
         // Saída
-        System.out.println("Nome: " + nome + " Idade: " + idade + " anos");
+        System.out.println("Seu nome é: " + nome + " e a sua idade é: " + idade + " anos");
 
     }
 }
